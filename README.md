@@ -13,12 +13,20 @@ Im 16 (He/His), I live in Indonesia, my hobbies are gaming and programming, my a
 
 ___
 
+this is the programming language that I often use
+
 <a href="https://github.com/Neel2904">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stevanvincent&theme=radical&hide=glsl,python" />
 </a>
 
 ___
 
+this is my github stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=Stevanvincent&show_icons=true&theme=radical&line_height=27&v=5" alt="My GitHub Stats" />
+
+___
+
+<a href = "https://www.instagram.com/stevan.vincent/"><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
 
 
