@@ -15,7 +15,7 @@ ___
 
 this is the programming language that I often use
 
-<a href="https://github.com/Neel2904">
+<a href="https://github.com/Stevanvincent">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stevanvincent&theme=radical&hide=glsl,python" />
 </a>
 
