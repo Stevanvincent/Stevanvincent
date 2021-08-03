@@ -34,3 +34,5 @@ My social media
   <img src="https://discord.c99.nl/widget/theme-4/435497505883422721.png" />
 </a>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Stevanvincent&color=green)
+
