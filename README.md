@@ -8,7 +8,9 @@ ___
 
 👋 Hi im Stevanvincent
 
-Im 16 (He/His), I live in Indonesia, my hobbies are gaming and programming, my activities are gaming, programming, and sometimes helping my parents.
+Im 16 (He/His), I live in Indonesia, Hobby: Programming and Animating.
+
+Favorite Application: YouTube, Instagram, Blender, After Effects, Visual Studio Code
 ___
 
 this is the programming language that I often use
